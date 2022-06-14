@@ -1,0 +1,138 @@
+Area,Value,region,id,Area2
+Russia,32669,T,1,Russia
+USA,28474,F,2,USA
+Canada,24198,F,3,Canada
+France,21458,F,4,France
+Ukraine,20519,T,5,Ukraine
+Argentina,11366,F,6,Argentina
+Australia,9884,F,7,Australia
+Germany,8775,F,8,Germany
+Kazakhstan,7426,F,9,Kazakhstan
+Turkey,6643,F,10,Turkey
+Romania,6197,F,11,Romania
+Bulgaria,5157,F,12,Bulgaria
+Italy,4171,F,13,Italy
+Lithuania,3453,F,14,Lithuania
+Poland,3127,F,15,Poland
+Hungary,2743,F,16,Hungary
+Latvia,2626,F,17,Latvia
+Belgium,2403,F,18,Belgium
+Czechia,2118,F,19,Czechia
+Spain,1909,F,20,Spain
+Mexico,1799,F,21,Mexico
+UK,1714,F,22,UK
+Netherlands,1629,F,23,Netherlands
+Austria,1143,F,24,Austria
+Egypt,1060,F,25,Egypt
+Slovakia,1048,F,26,Slovakia
+China,924,F,27,
+Sweden,907,F,28,
+Denmark,840,F,29,
+Pakistan,840,F,30,
+"China, mainland",734,F,31,
+Brazil,688,F,32,
+India,673,F,33,
+Estonia,657,F,34,
+Uzbekistan,646,F,35,
+Serbia,599,F,36,
+Republic of Moldova,563,F,37,
+Malaysia,507,F,38,
+Greece,498,F,39,
+Indonesia,472,F,40,
+Croatia,437,F,41,
+Paraguay,426,F,42,
+United Arab Emirates,417,F,43,
+Iran (Islamic Republic of),390,F,44,
+Uruguay,323,F,45,
+Ireland,313,F,46,
+South Africa,307,F,47,
+Viet Nam,299,F,48,
+Portugal,291,F,49,
+Thailand,291,F,50,
+Japan,268,F,51,
+Saudi Arabia,208,F,53,
+El Salvador,185,F,54,
+Luxembourg,178,F,55,
+Philippines,165,F,56,
+Peru,161,F,57,
+Slovenia,160,F,58,
+Tunisia,158,F,59,
+Republic of Korea,143,F,60,
+Ghana,142,F,61,
+Guatemala,142,F,62,
+Côte d'Ivoire,125,F,63,
+Yemen,121,F,64,
+Kuwait,117,F,65,
+Finland,115,F,66,
+Oman,113,F,67,
+"China, Taiwan Province of",111,F,68,
+Dominican Republic,93,F,69,
+Rwanda,90,F,70,
+Costa Rica,87,F,71,
+Colombia,82,F,72,
+Switzerland,78,F,73,
+"China, Hong Kong SAR",77,F,74,
+Jordan,77,F,75,
+Sri Lanka,73,F,76,
+Bosnia and Herzegovina,70,F,77,
+Fiji,64,F,78,
+Chile,62,F,79,
+Zambia,62,F,80,
+Lesotho,59,F,81,
+Uganda,55,F,82,
+Honduras,52,F,83,
+Israel,47,F,84,
+United Republic of Tanzania,44,F,85,
+Mozambique,43,F,86,
+Belarus,42,F,87,
+North Macedonia,42,F,88,
+New Zealand,38,F,89,
+Bangladesh,37,F,90,
+Morocco,36,F,91,
+Lebanon,34,F,92,
+Senegal,30,F,93,
+Trinidad and Tobago,30,F,94,
+Burundi,23,F,95,
+Mauritius,22,F,96,
+Jamaica,18,F,97,
+Saint Vincent and the Grenadines,15,F,98,
+Nicaragua,14,F,99,
+Niger,14,F,100,
+Norway,13,F,101,
+Bolivia (Plurinational State of),12,F,102,
+Togo,12,F,103,
+Ecuador,10,F,104,
+Kenya,10,F,105,
+Nigeria,10,F,106,
+Barbados,9,F,107,
+Cyprus,9,F,108,
+Nepal,8,F,109,
+Sudan,7,F,110,
+Grenada,5,F,111,
+Syrian Arab Republic,5,F,112,
+Zimbabwe,5,F,113,
+Albania,4,F,114,
+Algeria,4,F,115,
+Azerbaijan,4,F,116,
+Cambodia,4,F,117,
+Ethiopia,4,F,118,
+Georgia,4,F,119,
+Kyrgyzstan,4,F,120,
+Namibia,4,F,121,
+Benin,3,F,122,
+Myanmar,3,F,123,
+Botswana,2,F,124,
+Guyana,2,F,125,
+Haiti,2,F,126,
+Papua New Guinea,2,F,127,
+Saint Lucia,2,F,128,
+Armenia,1,F,129,
+Cameroon,1,F,130,
+"China, Macao SAR",1,F,131,
+Gambia,1,F,132,
+Iraq,1,F,133,
+Lao People's Democratic Republic,1,F,134,
+Malta,1,F,135,
+Montenegro,1,F,136,
+Panama,1,F,137,
+,231.145,F,52,
